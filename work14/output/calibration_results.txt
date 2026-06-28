@@ -1,0 +1,35 @@
+Camera Calibration Results
+==========================
+
+Checkerboard inner corners: 9 x 6
+Square size: 22.0 mm
+Image size: 4032 x 3024
+Valid images: 15
+
+Camera matrix K:
+[[3.08998263e+03 0.00000000e+00 2.03167516e+03]
+ [0.00000000e+00 3.08943332e+03 1.51080206e+03]
+ [0.00000000e+00 0.00000000e+00 1.00000000e+00]]
+
+Distortion coefficients D = [k1, k2, p1, p2, k3]:
+[ 2.53300861e-01 -1.40194995e+00 -2.83398256e-04  3.37700389e-05
+  2.26928323e+00]
+
+Mean reprojection error: 0.0873 pixels
+
+Valid images:
+images/images1.jpg
+images/images10.jpg
+images/images11.jpg
+images/images12.jpg
+images/images13.jpg
+images/images14.jpg
+images/images15.jpg
+images/images2.jpg
+images/images3.jpg
+images/images4.jpg
+images/images5.jpg
+images/images6.jpg
+images/images7.jpg
+images/images8.jpg
+images/images9.jpg
